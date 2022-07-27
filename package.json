@@ -1,0 +1,22 @@
+{
+  "name": "senac_notes_raphael",
+  "version": "1.0.0",
+  "description": "Senac nodejs training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r84/senac_notes_raphael.git"
+  },
+  "author": "Raphael de matos stanula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r84/senac_notes_raphael/issues"
+  },
+  "homepage": "https://github.com/r84/senac_notes_raphael#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
